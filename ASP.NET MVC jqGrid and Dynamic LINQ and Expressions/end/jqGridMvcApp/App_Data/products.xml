@@ -1,0 +1,773 @@
+<?xml version="1.0"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <ProductId>1</ProductId>
+    <ProductName>Chai</ProductName>
+    <Category>Beverages</Category>
+    <Supplier>Exotic Liquids</Supplier>
+    <UnitPrice>18</UnitPrice>
+    <UnitsInStock>39</UnitsInStock>
+    <EnglishName>Dharamsala Tea</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>2</ProductId>
+    <ProductName>Chang</ProductName>
+    <Category>Beverages</Category>
+    <Supplier>Exotic Liquids</Supplier>
+    <UnitPrice>19</UnitPrice>
+    <UnitsInStock>17</UnitsInStock>
+    <EnglishName>Tibetan Barley Beer</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>3</ProductId>
+    <ProductName>Aniseed Syrup</ProductName>
+    <Category>Condiments</Category>
+    <Supplier>Exotic Liquids</Supplier>
+    <UnitPrice>10</UnitPrice>
+    <UnitsInStock>13</UnitsInStock>
+    <EnglishName>Licorice Syrup</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>4</ProductId>
+    <ProductName>Chef Antons Cajun Seasoning</ProductName>
+    <Category>Condiments</Category>
+    <Supplier>New Orleans Cajun Delights</Supplier>
+    <UnitPrice>22</UnitPrice>
+    <UnitsInStock>53</UnitsInStock>
+    <EnglishName>Chef Anton's Cajun Seasoning</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>5</ProductId>
+    <ProductName>Chef Antons Gumbo Mix</ProductName>
+    <Category>Condiments</Category>
+    <Supplier>New Orleans Cajun Delights</Supplier>
+    <UnitPrice>21.35</UnitPrice>
+    <UnitsInStock>0</UnitsInStock>
+    <EnglishName>Chef Anton's Gumbo Mix</EnglishName>
+    <Discontinued>true</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>6</ProductId>
+    <ProductName>Grandmas Boysenberry Spread</ProductName>
+    <Category>Condiments</Category>
+    <Supplier>Grandma Kelly's Homestead</Supplier>
+    <UnitPrice>25</UnitPrice>
+    <UnitsInStock>120</UnitsInStock>
+    <EnglishName>Grandma's Boysenberry Spread</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>7</ProductId>
+    <ProductName>Uncle Bobs Organic Dried Pears</ProductName>
+    <Category>Produce</Category>
+    <Supplier>Grandma Kelly's Homestead</Supplier>
+    <UnitPrice>30</UnitPrice>
+    <UnitsInStock>15</UnitsInStock>
+    <EnglishName>Uncle Bob's Organic Dried Pears</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>8</ProductId>
+    <ProductName>Northwoods Cranberry Sauce</ProductName>
+    <Category>Condiments</Category>
+    <Supplier>Grandma Kelly's Homestead</Supplier>
+    <UnitPrice>40</UnitPrice>
+    <UnitsInStock>6</UnitsInStock>
+    <EnglishName>Northwoods Cranberry Sauce</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>9</ProductId>
+    <ProductName>Mishi Kobe Niku</ProductName>
+    <Category>Meat/Poultry</Category>
+    <Supplier>Tokyo Traders</Supplier>
+    <UnitPrice>97</UnitPrice>
+    <UnitsInStock>29</UnitsInStock>
+    <EnglishName>Mishi Kobe Beef</EnglishName>
+    <Discontinued>true</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>10</ProductId>
+    <ProductName>Ikura</ProductName>
+    <Category>Seafood</Category>
+    <Supplier>Tokyo Traders</Supplier>
+    <UnitPrice>31</UnitPrice>
+    <UnitsInStock>31</UnitsInStock>
+    <EnglishName>Fish Roe</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>11</ProductId>
+    <ProductName>Queso Cabrales</ProductName>
+    <Category>Dairy Products</Category>
+    <Supplier>Cooperativa de Quesos 'Las Cabras'</Supplier>
+    <UnitPrice>21</UnitPrice>
+    <UnitsInStock>22</UnitsInStock>
+    <EnglishName>Cabrales Cheese</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>12</ProductId>
+    <ProductName>Queso Manchego La Pastora</ProductName>
+    <Category>Dairy Products</Category>
+    <Supplier>Cooperativa de Quesos 'Las Cabras'</Supplier>
+    <UnitPrice>38</UnitPrice>
+    <UnitsInStock>86</UnitsInStock>
+    <EnglishName>Manchego La Pastora Cheese</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>13</ProductId>
+    <ProductName>Konbu</ProductName>
+    <Category>Seafood</Category>
+    <Supplier>Mayumi's</Supplier>
+    <UnitPrice>6</UnitPrice>
+    <UnitsInStock>24</UnitsInStock>
+    <EnglishName>Kelp Seaweed</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>14</ProductId>
+    <ProductName>Tofu</ProductName>
+    <Category>Produce</Category>
+    <Supplier>Mayumi's</Supplier>
+    <UnitPrice>23.25</UnitPrice>
+    <UnitsInStock>35</UnitsInStock>
+    <EnglishName>Bean Curd</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>15</ProductId>
+    <ProductName>Genen Shouyu</ProductName>
+    <Category>Condiments</Category>
+    <Supplier>Mayumi's</Supplier>
+    <UnitPrice>15.5</UnitPrice>
+    <UnitsInStock>39</UnitsInStock>
+    <EnglishName>Lite Sodium Soy Sauce</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>16</ProductId>
+    <ProductName>Pavlova</ProductName>
+    <Category>Confections</Category>
+    <Supplier>Pavlova, Ltd.</Supplier>
+    <UnitPrice>17.45</UnitPrice>
+    <UnitsInStock>29</UnitsInStock>
+    <EnglishName>Pavlova Meringue Dessert</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>17</ProductId>
+    <ProductName>Alice Mutton</ProductName>
+    <Category>Meat/Poultry</Category>
+    <Supplier>Pavlova, Ltd.</Supplier>
+    <UnitPrice>39</UnitPrice>
+    <UnitsInStock>0</UnitsInStock>
+    <EnglishName>Alice Springs Lamb</EnglishName>
+    <Discontinued>true</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>18</ProductId>
+    <ProductName>Carnarvon Tigers</ProductName>
+    <Category>Seafood</Category>
+    <Supplier>Pavlova, Ltd.</Supplier>
+    <UnitPrice>62.5</UnitPrice>
+    <UnitsInStock>42</UnitsInStock>
+    <EnglishName>Carnarvon Tiger Prawns</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>19</ProductId>
+    <ProductName>Teatime Chocolate Biscuits</ProductName>
+    <Category>Confections</Category>
+    <Supplier>Specialty Biscuits, Ltd.</Supplier>
+    <UnitPrice>9.2</UnitPrice>
+    <UnitsInStock>25</UnitsInStock>
+    <EnglishName>Teatime Chocolate Biscuits</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>20</ProductId>
+    <ProductName>Sir Rodneys Marmalade</ProductName>
+    <Category>Confections</Category>
+    <Supplier>Specialty Biscuits, Ltd.</Supplier>
+    <UnitPrice>81</UnitPrice>
+    <UnitsInStock>40</UnitsInStock>
+    <EnglishName>Sir Rodney's Marmalade</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>21</ProductId>
+    <ProductName>Sir Rodneys Scones</ProductName>
+    <Category>Confections</Category>
+    <Supplier>Specialty Biscuits, Ltd.</Supplier>
+    <UnitPrice>10</UnitPrice>
+    <UnitsInStock>3</UnitsInStock>
+    <EnglishName>Sir Rodney's Scones</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>22</ProductId>
+    <ProductName>Gustafs Knäckebröd</ProductName>
+    <Category>Grains/Cereals</Category>
+    <Supplier>PB Knäckebröd AB</Supplier>
+    <UnitPrice>21</UnitPrice>
+    <UnitsInStock>104</UnitsInStock>
+    <EnglishName>Gustaf's Rye Crisp Bread</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>23</ProductId>
+    <ProductName>Tunnbröd</ProductName>
+    <Category>Grains/Cereals</Category>
+    <Supplier>PB Knäckebröd AB</Supplier>
+    <UnitPrice>9</UnitPrice>
+    <UnitsInStock>61</UnitsInStock>
+    <EnglishName>Thin Bread</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>24</ProductId>
+    <ProductName>Guaraná Fantástica</ProductName>
+    <Category>Beverages</Category>
+    <Supplier>Refrescos Americanas LTDA</Supplier>
+    <UnitPrice>4.5</UnitPrice>
+    <UnitsInStock>20</UnitsInStock>
+    <EnglishName>Guaraná Fantástica Soft Drink</EnglishName>
+    <Discontinued>true</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>25</ProductId>
+    <ProductName>NuNuCa Nuß-Nougat-Creme</ProductName>
+    <Category>Confections</Category>
+    <Supplier>Heli Süßwaren GmbH &amp; Co. KG</Supplier>
+    <UnitPrice>14</UnitPrice>
+    <UnitsInStock>76</UnitsInStock>
+    <EnglishName>NuNuCa Chocolate-Nut Spread</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>26</ProductId>
+    <ProductName>Gumbär Gummibärchen</ProductName>
+    <Category>Confections</Category>
+    <Supplier>Heli Süßwaren GmbH &amp; Co. KG</Supplier>
+    <UnitPrice>31.23</UnitPrice>
+    <UnitsInStock>15</UnitsInStock>
+    <EnglishName>Gumbär Gummy Bears</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>27</ProductId>
+    <ProductName>Schoggi Schokolade</ProductName>
+    <Category>Confections</Category>
+    <Supplier>Heli Süßwaren GmbH &amp; Co. KG</Supplier>
+    <UnitPrice>43.9</UnitPrice>
+    <UnitsInStock>49</UnitsInStock>
+    <EnglishName>Schoggi Chocolate</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>28</ProductId>
+    <ProductName>Rössle Sauerkraut</ProductName>
+    <Category>Produce</Category>
+    <Supplier>Plusspar Lebensmittelgroßmärkte AG</Supplier>
+    <UnitPrice>45.6</UnitPrice>
+    <UnitsInStock>26</UnitsInStock>
+    <EnglishName>Rössle Sauerkraut</EnglishName>
+    <Discontinued>true</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>29</ProductId>
+    <ProductName>Thüringer Rostbratwurst</ProductName>
+    <Category>Meat/Poultry</Category>
+    <Supplier>Plusspar Lebensmittelgroßmärkte AG</Supplier>
+    <UnitPrice>123.79</UnitPrice>
+    <UnitsInStock>0</UnitsInStock>
+    <EnglishName>Thüringer Sausage</EnglishName>
+    <Discontinued>true</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>30</ProductId>
+    <ProductName>Nord-Ost Matjeshering</ProductName>
+    <Category>Seafood</Category>
+    <Supplier>Nord-Ost-Fisch Handelsgesellschaft mbH</Supplier>
+    <UnitPrice>25.89</UnitPrice>
+    <UnitsInStock>10</UnitsInStock>
+    <EnglishName>Nord-Ost White Herring</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>31</ProductId>
+    <ProductName>Gorgonzola Telino</ProductName>
+    <Category>Dairy Products</Category>
+    <Supplier>Formaggi Fortini s.r.l.</Supplier>
+    <UnitPrice>12.5</UnitPrice>
+    <UnitsInStock>0</UnitsInStock>
+    <EnglishName>Gorgonzola Telino</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>32</ProductId>
+    <ProductName>Mascarpone Fabioli</ProductName>
+    <Category>Dairy Products</Category>
+    <Supplier>Formaggi Fortini s.r.l.</Supplier>
+    <UnitPrice>32</UnitPrice>
+    <UnitsInStock>9</UnitsInStock>
+    <EnglishName>Mascarpone Fabioli</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>33</ProductId>
+    <ProductName>Geitost</ProductName>
+    <Category>Dairy Products</Category>
+    <Supplier>Norske Meierier</Supplier>
+    <UnitPrice>2.5</UnitPrice>
+    <UnitsInStock>112</UnitsInStock>
+    <EnglishName>Goat Cheese</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>34</ProductId>
+    <ProductName>Sasquatch Ale</ProductName>
+    <Category>Beverages</Category>
+    <Supplier>Bigfoot Breweries</Supplier>
+    <UnitPrice>14</UnitPrice>
+    <UnitsInStock>111</UnitsInStock>
+    <EnglishName>Sasquatch Ale</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>35</ProductId>
+    <ProductName>Steeleye Stout</ProductName>
+    <Category>Beverages</Category>
+    <Supplier>Bigfoot Breweries</Supplier>
+    <UnitPrice>18</UnitPrice>
+    <UnitsInStock>20</UnitsInStock>
+    <EnglishName>Steeleye Stout</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>36</ProductId>
+    <ProductName>Inlagd Sill</ProductName>
+    <Category>Seafood</Category>
+    <Supplier>Svensk Sjöföda AB</Supplier>
+    <UnitPrice>19</UnitPrice>
+    <UnitsInStock>112</UnitsInStock>
+    <EnglishName>Pickled Herring</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>37</ProductId>
+    <ProductName>Gravad lax</ProductName>
+    <Category>Seafood</Category>
+    <Supplier>Svensk Sjöföda AB</Supplier>
+    <UnitPrice>26</UnitPrice>
+    <UnitsInStock>11</UnitsInStock>
+    <EnglishName>Gravad Lox</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>38</ProductId>
+    <ProductName>Côte de Blaye</ProductName>
+    <Category>Beverages</Category>
+    <Supplier>Aux joyeux ecclésiastiques</Supplier>
+    <UnitPrice>263.5</UnitPrice>
+    <UnitsInStock>17</UnitsInStock>
+    <EnglishName>Côte de Blaye (Red Bordeaux wine)</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>39</ProductId>
+    <ProductName>Chartreuse verte</ProductName>
+    <Category>Beverages</Category>
+    <Supplier>Aux joyeux ecclésiastiques</Supplier>
+    <UnitPrice>18</UnitPrice>
+    <UnitsInStock>69</UnitsInStock>
+    <EnglishName>Green Chartreuse (Liqueur)</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>40</ProductId>
+    <ProductName>Boston Crab Meat</ProductName>
+    <Category>Seafood</Category>
+    <Supplier>New England Seafood Cannery</Supplier>
+    <UnitPrice>18.4</UnitPrice>
+    <UnitsInStock>123</UnitsInStock>
+    <EnglishName>Boston Crab Meat</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>41</ProductId>
+    <ProductName>Jacks New England Clam Chowder</ProductName>
+    <Category>Seafood</Category>
+    <Supplier>New England Seafood Cannery</Supplier>
+    <UnitPrice>9.65</UnitPrice>
+    <UnitsInStock>85</UnitsInStock>
+    <EnglishName>Jack's New England Clam Chowder</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>42</ProductId>
+    <ProductName>Singaporean Hokkien Fried Mee</ProductName>
+    <Category>Grains/Cereals</Category>
+    <Supplier>Leka Trading</Supplier>
+    <UnitPrice>14</UnitPrice>
+    <UnitsInStock>26</UnitsInStock>
+    <EnglishName>Singapore Noodles</EnglishName>
+    <Discontinued>true</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>43</ProductId>
+    <ProductName>Ipoh Coffee</ProductName>
+    <Category>Beverages</Category>
+    <Supplier>Leka Trading</Supplier>
+    <UnitPrice>46</UnitPrice>
+    <UnitsInStock>17</UnitsInStock>
+    <EnglishName>Malaysian Coffee</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>44</ProductId>
+    <ProductName>Gula Malacca</ProductName>
+    <Category>Condiments</Category>
+    <Supplier>Leka Trading</Supplier>
+    <UnitPrice>19.45</UnitPrice>
+    <UnitsInStock>27</UnitsInStock>
+    <EnglishName>Malacca Dark Brown Sugar</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>45</ProductId>
+    <ProductName>Røgede sild</ProductName>
+    <Category>Seafood</Category>
+    <Supplier>Lyngbysild</Supplier>
+    <UnitPrice>9.5</UnitPrice>
+    <UnitsInStock>5</UnitsInStock>
+    <EnglishName>Smoked Herring</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>46</ProductId>
+    <ProductName>Spegesild</ProductName>
+    <Category>Seafood</Category>
+    <Supplier>Lyngbysild</Supplier>
+    <UnitPrice>12</UnitPrice>
+    <UnitsInStock>95</UnitsInStock>
+    <EnglishName>Salt Herring</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>47</ProductId>
+    <ProductName>Zaanse koeken</ProductName>
+    <Category>Confections</Category>
+    <Supplier>Zaanse Snoepfabriek</Supplier>
+    <UnitPrice>9.5</UnitPrice>
+    <UnitsInStock>36</UnitsInStock>
+    <EnglishName>Zaanse Cookies</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>48</ProductId>
+    <ProductName>Chocolade</ProductName>
+    <Category>Confections</Category>
+    <Supplier>Zaanse Snoepfabriek</Supplier>
+    <UnitPrice>12.75</UnitPrice>
+    <UnitsInStock>15</UnitsInStock>
+    <EnglishName>Dutch Chocolate</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>49</ProductId>
+    <ProductName>Maxilaku</ProductName>
+    <Category>Confections</Category>
+    <Supplier>Karkki Oy</Supplier>
+    <UnitPrice>20</UnitPrice>
+    <UnitsInStock>10</UnitsInStock>
+    <EnglishName>Licorice</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>50</ProductId>
+    <ProductName>Valkoinen suklaa</ProductName>
+    <Category>Confections</Category>
+    <Supplier>Karkki Oy</Supplier>
+    <UnitPrice>16.25</UnitPrice>
+    <UnitsInStock>65</UnitsInStock>
+    <EnglishName>White Chocolate</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>51</ProductId>
+    <ProductName>Manjimup Dried Apples</ProductName>
+    <Category>Produce</Category>
+    <Supplier>G'day, Mate</Supplier>
+    <UnitPrice>53</UnitPrice>
+    <UnitsInStock>20</UnitsInStock>
+    <EnglishName>Manjimup Dried Apples</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>52</ProductId>
+    <ProductName>Filo Mix</ProductName>
+    <Category>Grains/Cereals</Category>
+    <Supplier>G'day, Mate</Supplier>
+    <UnitPrice>7</UnitPrice>
+    <UnitsInStock>38</UnitsInStock>
+    <EnglishName>Mix for Greek Filo Dough</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>53</ProductId>
+    <ProductName>Perth Pasties</ProductName>
+    <Category>Meat/Poultry</Category>
+    <Supplier>G'day, Mate</Supplier>
+    <UnitPrice>32.8</UnitPrice>
+    <UnitsInStock>0</UnitsInStock>
+    <EnglishName>Perth Meat Pies</EnglishName>
+    <Discontinued>true</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>54</ProductId>
+    <ProductName>Tourtière</ProductName>
+    <Category>Meat/Poultry</Category>
+    <Supplier>Ma Maison</Supplier>
+    <UnitPrice>7.45</UnitPrice>
+    <UnitsInStock>21</UnitsInStock>
+    <EnglishName>Pork Pie</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>55</ProductId>
+    <ProductName>Pâté chinois</ProductName>
+    <Category>Meat/Poultry</Category>
+    <Supplier>Ma Maison</Supplier>
+    <UnitPrice>24</UnitPrice>
+    <UnitsInStock>115</UnitsInStock>
+    <EnglishName>Shepard's Pie</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>56</ProductId>
+    <ProductName>Gnocchi di nonna Alice</ProductName>
+    <Category>Grains/Cereals</Category>
+    <Supplier>Pasta Buttini s.r.l.</Supplier>
+    <UnitPrice>38</UnitPrice>
+    <UnitsInStock>21</UnitsInStock>
+    <EnglishName>Gramma Alice's Dumplings</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>57</ProductId>
+    <ProductName>Ravioli Angelo</ProductName>
+    <Category>Grains/Cereals</Category>
+    <Supplier>Pasta Buttini s.r.l.</Supplier>
+    <UnitPrice>19.5</UnitPrice>
+    <UnitsInStock>36</UnitsInStock>
+    <EnglishName>Angelo Ravioli</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>58</ProductId>
+    <ProductName>Escargots de Bourgogne</ProductName>
+    <Category>Seafood</Category>
+    <Supplier>Escargots Nouveaux</Supplier>
+    <UnitPrice>13.25</UnitPrice>
+    <UnitsInStock>62</UnitsInStock>
+    <EnglishName>Escargots from Burgundy</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>59</ProductId>
+    <ProductName>Raclette Courdavault</ProductName>
+    <Category>Dairy Products</Category>
+    <Supplier>Gai pâturage</Supplier>
+    <UnitPrice>55</UnitPrice>
+    <UnitsInStock>79</UnitsInStock>
+    <EnglishName>Courdavault Raclette Cheese</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>60</ProductId>
+    <ProductName>Camembert Pierrot</ProductName>
+    <Category>Dairy Products</Category>
+    <Supplier>Gai pâturage</Supplier>
+    <UnitPrice>34</UnitPrice>
+    <UnitsInStock>19</UnitsInStock>
+    <EnglishName>Pierrot Camembert</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>61</ProductId>
+    <ProductName>Sirop dérable</ProductName>
+    <Category>Condiments</Category>
+    <Supplier>Forêts d'érables</Supplier>
+    <UnitPrice>28.5</UnitPrice>
+    <UnitsInStock>113</UnitsInStock>
+    <EnglishName>Maple Syrup</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>62</ProductId>
+    <ProductName>Tarte au sucre</ProductName>
+    <Category>Confections</Category>
+    <Supplier>Forêts d'érables</Supplier>
+    <UnitPrice>49.3</UnitPrice>
+    <UnitsInStock>17</UnitsInStock>
+    <EnglishName>Sugar Pie</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>63</ProductId>
+    <ProductName>Vegie-spread</ProductName>
+    <Category>Condiments</Category>
+    <Supplier>Pavlova, Ltd.</Supplier>
+    <UnitPrice>43.9</UnitPrice>
+    <UnitsInStock>24</UnitsInStock>
+    <EnglishName>Vegetable Sandwich Spread</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>64</ProductId>
+    <ProductName>Wimmers gute Semmelknödel</ProductName>
+    <Category>Grains/Cereals</Category>
+    <Supplier>Plusspar Lebensmittelgroßmärkte AG</Supplier>
+    <UnitPrice>33.25</UnitPrice>
+    <UnitsInStock>22</UnitsInStock>
+    <EnglishName>Wimmer's Delicious Bread Dumplings</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>65</ProductId>
+    <ProductName>Louisiana Fiery Hot Pepper Sauce</ProductName>
+    <Category>Condiments</Category>
+    <Supplier>New Orleans Cajun Delights</Supplier>
+    <UnitPrice>21.05</UnitPrice>
+    <UnitsInStock>76</UnitsInStock>
+    <EnglishName>Louisiana Fiery Hot Pepper Sauce</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>66</ProductId>
+    <ProductName>Louisiana Hot Spiced Okra</ProductName>
+    <Category>Condiments</Category>
+    <Supplier>New Orleans Cajun Delights</Supplier>
+    <UnitPrice>17</UnitPrice>
+    <UnitsInStock>4</UnitsInStock>
+    <EnglishName>Louisiana Hot Spiced Okra</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>67</ProductId>
+    <ProductName>Laughing Lumberjack Lager</ProductName>
+    <Category>Beverages</Category>
+    <Supplier>Bigfoot Breweries</Supplier>
+    <UnitPrice>14</UnitPrice>
+    <UnitsInStock>52</UnitsInStock>
+    <EnglishName>Laughing Lumberjack Lager</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>68</ProductId>
+    <ProductName>Scottish Longbreads</ProductName>
+    <Category>Confections</Category>
+    <Supplier>Specialty Biscuits, Ltd.</Supplier>
+    <UnitPrice>12.5</UnitPrice>
+    <UnitsInStock>6</UnitsInStock>
+    <EnglishName>Scottish Longbreads</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>69</ProductId>
+    <ProductName>Gudbrandsdalsost</ProductName>
+    <Category>Dairy Products</Category>
+    <Supplier>Norske Meierier</Supplier>
+    <UnitPrice>36</UnitPrice>
+    <UnitsInStock>26</UnitsInStock>
+    <EnglishName>Gudbrandsdals Cheese</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>70</ProductId>
+    <ProductName>Outback Lager</ProductName>
+    <Category>Beverages</Category>
+    <Supplier>Pavlova, Ltd.</Supplier>
+    <UnitPrice>15</UnitPrice>
+    <UnitsInStock>15</UnitsInStock>
+    <EnglishName>Outback Lager</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>71</ProductId>
+    <ProductName>Fløtemysost</ProductName>
+    <Category>Dairy Products</Category>
+    <Supplier>Norske Meierier</Supplier>
+    <UnitPrice>21.5</UnitPrice>
+    <UnitsInStock>26</UnitsInStock>
+    <EnglishName>Fløtemys Cream Cheese</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>72</ProductId>
+    <ProductName>Mozzarella di Giovanni</ProductName>
+    <Category>Dairy Products</Category>
+    <Supplier>Formaggi Fortini s.r.l.</Supplier>
+    <UnitPrice>34.8</UnitPrice>
+    <UnitsInStock>14</UnitsInStock>
+    <EnglishName>Giovanni's Mozzarella</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>73</ProductId>
+    <ProductName>Röd Kaviar</ProductName>
+    <Category>Seafood</Category>
+    <Supplier>Svensk Sjöföda AB</Supplier>
+    <UnitPrice>15</UnitPrice>
+    <UnitsInStock>101</UnitsInStock>
+    <EnglishName>Red Caviar</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>74</ProductId>
+    <ProductName>Longlife Tofu</ProductName>
+    <Category>Produce</Category>
+    <Supplier>Tokyo Traders</Supplier>
+    <UnitPrice>10</UnitPrice>
+    <UnitsInStock>4</UnitsInStock>
+    <EnglishName>Longlife Bean Curd</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>75</ProductId>
+    <ProductName>Rhönbräu Klosterbier</ProductName>
+    <Category>Beverages</Category>
+    <Supplier>Plusspar Lebensmittelgroßmärkte AG</Supplier>
+    <UnitPrice>7.75</UnitPrice>
+    <UnitsInStock>125</UnitsInStock>
+    <EnglishName>Rhönbräu Beer</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>76</ProductId>
+    <ProductName>Lakkalikööri</ProductName>
+    <Category>Beverages</Category>
+    <Supplier>Karkki Oy</Supplier>
+    <UnitPrice>18</UnitPrice>
+    <UnitsInStock>57</UnitsInStock>
+    <EnglishName>Cloudberry Liqueur</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+  <Product>
+    <ProductId>77</ProductId>
+    <ProductName>Original Frankfurter grüne Soße</ProductName>
+    <Category>Condiments</Category>
+    <Supplier>Plusspar Lebensmittelgroßmärkte AG</Supplier>
+    <UnitPrice>13</UnitPrice>
+    <UnitsInStock>32</UnitsInStock>
+    <EnglishName>Original Frankfurter Green Sauce</EnglishName>
+    <Discontinued>false</Discontinued>
+  </Product>
+</ArrayOfProduct>
